@@ -1,0 +1,145 @@
+; Hovertank 3-D Source Code
+; Copyright (C) 1993-2014 Flat Rock Software
+;
+; This program is free software; you can redistribute it and/or modify
+; it under the terms of the GNU General Public License as published by
+; the Free Software Foundation; either version 2 of the License, or
+; (at your option) any later version.
+;
+; This program is distributed in the hope that it will be useful,
+; but WITHOUT ANY WARRANTY; without even the implied warranty of
+; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+; GNU General Public License for more details.
+;
+; You should have received a copy of the GNU General Public License along
+; with this program; if not, write to the Free Software Foundation, Inc.,
+; 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+;=====================================
+;
+; Graphics DEFINE file for .HOV
+; IGRAB-ed on Thu Dec 02 11:07:47 1993
+;
+;=====================================
+
+MAN1PIC			=	0
+MAN2PIC			=	1
+MANDIE1PIC		=	2
+MANDIE2PIC		=	3
+MANDIE3PIC		=	4
+MANDIE4PIC		=	5
+MANDIE5PIC		=	6
+WOMAN1PIC		=	7
+WOMAN2PIC		=	8
+WOMANDIE1PIC		=	9
+WOMANDIE2PIC		=	10
+WOMANDIE3PIC		=	11
+WOMANDIE4PIC		=	12
+WOMANDIE5PIC		=	13
+BIGSHOTPIC		=	14
+PSHOTPIC		=	15
+MSHOTPIC		=	16
+SHOTDIE1PIC		=	17
+SHOTDIE2PIC		=	18
+SHOTDIE3PIC		=	19
+SHOTDIE4PIC		=	20
+SHOTDIE5PIC		=	21
+TANK1PIC		=	22
+TANKDIE1PIC		=	23
+TANKDIE2PIC		=	24
+TANKDIE3PIC		=	25
+TANKDIE4PIC		=	26
+TANKDIE5PIC		=	27
+MUTANT1PIC		=	28
+MUTANT2PIC		=	29
+MUTANT3PIC		=	30
+MUTANT4PIC		=	31
+MUTANTDIE1PIC		=	32
+MUTANTDIE2PIC		=	33
+MUTANTDIE3PIC		=	34
+MUTANTDIE4PIC		=	35
+MUTANTDIE5PIC		=	36
+MUTANTSWINGPIC		=	37
+MUTANTHITPIC		=	38
+SHIELD1PIC		=	39
+SHIELD2PIC		=	40
+DRONE1PIC		=	41
+DRONE2PIC		=	42
+DRONE3PIC		=	43
+DRONE4PIC		=	44
+DRONEDIE1PIC		=	45
+DRONEDIE2PIC		=	46
+DRONEDIE3PIC		=	47
+DRONEDIE4PIC		=	48
+DRONEDIE5PIC		=	49
+WARP1PIC		=	50
+WARP2PIC		=	51
+WARP3PIC		=	52
+WARP4PIC		=	53
+DASHPIC			=	54
+DIGIT0PIC		=	55
+DIGIT1PIC		=	56
+DIGIT2PIC		=	57
+DIGIT3PIC		=	58
+DIGIT4PIC		=	59
+DIGIT5PIC		=	60
+DIGIT6PIC		=	61
+DIGIT7PIC		=	62
+DIGIT8PIC		=	63
+DIGIT9PIC		=	64
+SHIELDFULLPIC		=	65
+SHIELDHALFPIC		=	66
+SHIELDLOWPIC		=	67
+EMPTYGUYPIC		=	68
+SAVEDGUYPIC		=	69
+DEADGUYPIC		=	70
+REARMINGPIC		=	71
+READYPIC		=	72
+CHARGINGPIC		=	73
+MAXPOWERPIC		=	74
+ENDPIC			=	75
+LOGOPIC			=	76
+STARSPIC		=	77
+TITLEPIC		=	78
+DEATHPIC		=	79
+MISSIONPIC		=	80
+UFAPIC			=	81
+MADUFAPIC		=	82
+
+
+
+;
+; Amount of each data item
+;
+NUMCHUNKS	=	86
+NUMFONT  	=	0
+NUMFONTM  	=	1
+NUMPICS  	=	83
+NUMPICM  	=	0
+NUMSPRITES  	=	0
+NUMTILE8  	=	72
+NUMTILE8M  	=	0
+NUMTILE16  	=	0
+NUMTILE16M  	=	0
+NUMTILE32  	=	0
+NUMTILE32M  	=	0
+;
+; File offsets for data items
+;
+STRUCTPIC  	=	0
+
+STARTFONT  	=	1
+STARTFONTM  	=	1
+STARTPICS  	=	2
+STARTPICM  	=	85
+STARTSPRITES  	=	85
+STARTTILE8  	=	85
+STARTTILE8M  	=	86
+STARTTILE16  	=	86
+STARTTILE16M  	=	86
+STARTTILE32  	=	86
+STARTTILE32M  	=	86
+
+;
+; Thank you for using IGRAB!
+;
